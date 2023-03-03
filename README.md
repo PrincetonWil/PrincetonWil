@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Wil</h1>
-<h3 align="center">A 14 year old developer</h3>
+<h3 align="center">Kid from Philippines</h3>
 
 <h3 align="left">Follow me:</h3>
 <p align="left">
