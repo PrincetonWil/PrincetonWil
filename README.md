@@ -1,4 +1,6 @@
-<head>
+<!DOCTYPE html>
+<html>
+  <head>
   <style>
     #web {
       text-align:center;
@@ -21,3 +23,5 @@
 
 
 </body>
+
+</html>
