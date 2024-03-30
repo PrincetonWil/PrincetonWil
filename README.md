@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Wil</h1>
 <h3 align="center">Kid From Philippines</h3>
 <p align="center">
-<h4 href="https://www.princetonwil.online" target="blank">Website</h4>
+<a href="https://www.princetonwil.online" target="blank">Website</a>
 </p>
 
 <h3 align="left">Follow me:</h3>
