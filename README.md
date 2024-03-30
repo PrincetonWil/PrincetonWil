@@ -1,6 +1,5 @@
-<h1 align="center">Hi, I'm Wil</h1>
+<a href="http://www.princetonwil.online"><h1 align="center">Hi, I'm Wil</h1></a>
 <h3 align="center">Kid From Philippines</h3>
-<a text-align="center" href="http://www.princetonwil.online">princetonwil.online</a>
 
 <h3 align="left">Follow me:</h3>
 <p align="left">
